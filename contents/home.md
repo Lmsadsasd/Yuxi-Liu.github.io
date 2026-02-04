@@ -1,20 +1,14 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Yuxi Liu](https://img.shields.io/badge/YuxiLiu-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
-
+I'm currently pursuing a PHD's degree in Peking University at the Department of International Machine Learning Center.
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>yuxiliu666@stu.pku.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Peking University**, PHD of 2023  (2023-2028)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Wuhan University**, Honours Bachelor of 2022 (2019 – 2023)  
+• Top 5%  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Machine Learning
