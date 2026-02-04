@@ -1,4 +1,4 @@
-[![Yuxi Liu](https://img.shields.io/badge/YuxiLiu-github-blue?logo=github)](https://github.com/XX)
+[![Yuxi Liu](https://img.shields.io/badge/YuxiLiu-github-blue?logo=github)](https://github.com/Yuxiliu666)
 
 I'm currently pursuing a PHD's degree in Peking University at the Department of International Machine Learning Center.
 #### Email  
